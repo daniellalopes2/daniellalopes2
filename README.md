@@ -2,7 +2,6 @@
 
 - 🔭 Hoje trabalho como Product Manager
 - 🌱 Atualmente estou estudando Python
-- 📫 Contate-me no email: daniellalopes2@gmail.com
 - 👩‍💻 Aqui você encontra minha tragetória profissional: https://www.linkedin.com/in/daniella-missias/
 - 😄 Pronouns: ela/dela
 
